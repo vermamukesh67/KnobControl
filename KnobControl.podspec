@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author             = { "verma mukesh" => "vermamukesh67@gmail.com" }	
   s.platform     = :ios, "9.0"
-  s.source       = { :git => "https://github.com/vermamukesh67/KnobControl.podspec", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/vermamukesh67/KnobControl.git", :tag => "1.0.0" }
   s.source_files = "KnobControl"
   s.swift_version = "4.2"
 
